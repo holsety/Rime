@@ -7,5 +7,6 @@ patch:
   menu/page_size: 6
   key_binder/bindings:
     - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: Shift+Tab, send: Page_Up, when: composing}
 
 

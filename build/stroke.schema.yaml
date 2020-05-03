@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1588383968
-    default.custom: 1588512426
+    default.custom: 1588512933
     key_bindings: 1588383968
     key_bindings.custom: 0
     punctuation: 1588383968
@@ -35,6 +35,7 @@ engine:
 key_binder:
   bindings:
     - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: "Shift+Tab", send: Page_Up, when: composing}
   import_preset: default
 menu:
   page_size: 9
