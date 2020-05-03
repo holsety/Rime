@@ -1,0 +1,4 @@
+# luna_pinyin.schema.yaml
+
+patch:
+  "menu/page_size": 9

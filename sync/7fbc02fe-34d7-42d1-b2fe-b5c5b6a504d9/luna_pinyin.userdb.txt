@@ -1,0 +1,49 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	48
+#@/user_id	7fbc02fe-34d7-42d1-b2fe-b5c5b6a504d9
+bu zhong yao 	不重要	c=1 d=0.878095 t=48
+cheng nuo 	承諾	c=1 d=0.806541 t=48
+de 	的	c=7 d=6.05971 t=48
+dong feng 	東風	c=1 d=0.995012 t=48
+dong feng po 	東風破	c=1 d=0.99005 t=48
+dou shi 	都是	c=1 d=0.946485 t=48
+dui 	對	c=0 d=0.0786628 t=48
+dui you xian shi xiang 	對優先事項	c=1 d=0.790571 t=48
+fen ping 	分屏	c=1 d=0.980199 t=48
+gao 	高	c=1 d=0.826959 t=48
+gao xiao 	高效	c=2 d=1.62932 t=48
+gong kai 	公開	c=1 d=0.951229 t=48
+gong zuo 	工作	c=1 d=0.856415 t=48
+he 	和	c=1 d=0.802519 t=48
+he 	鶴	c=1 d=0.97531 t=48
+ji xiao 	績效	c=1 d=0.831104 t=48
+ju jiao 	聚焦	c=2 d=1.64219 t=48
+ju you 	具有	c=1 d=0.88692 t=48
+mei ge ren 	每個人	c=1 d=0.932394 t=48
+mu biao 	目標	c=1 d=0.941765 t=48
+qing chu 	清楚	c=1 d=0.865022 t=48
+shang 	上	c=1 d=0.900325 t=48
+shen me 	什麼	c=1 d=0.869358 t=48
+shi 	是	c=1 d=0.873716 t=48
+shi xiang 	事項	c=0 d=0.0786628 t=48
+shou 	手	c=1 d=0.960789 t=48
+shou xi 	首席	c=1 d=0.909373 t=48
+shu xu guan 	鼠鬚管	c=1 d=1 t=48
+shuang pin 	雙拼	c=1 d=0.970446 t=48
+tong shi 	同時	c=1 d=0.860708 t=48
+tou ming 	透明	c=1 d=0.891366 t=48
+xia zhi 	下至	c=1 d=0.918512 t=48
+xing 	性	c=1 d=0.895834 t=48
+yi ban 	一般	c=1 d=0.923116 t=48
+ying gai 	應該	c=1 d=0.839457 t=48
+you xian 	優先	c=0 d=0.0786628 t=48
+yuan gong 	員工	c=1 d=0.927743 t=48
+zhi xing guan 	執行官	c=1 d=0.913931 t=48
+zhong 	中	c=1 d=0.985112 t=48
+zhong yao 	重要	c=1 d=0.847894 t=48
+zi 	自	c=1 d=0.904837 t=48
+zi fu 	字符	c=1 d=0.965605 t=48
+zu zhi 	組織	c=1 d=0.83527 t=48
