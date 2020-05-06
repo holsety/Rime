@@ -2,3 +2,4 @@
 
 patch:
   "menu/page_size": 9
+  "punctuator/import_preset": alternative
